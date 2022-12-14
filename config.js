@@ -27,7 +27,7 @@ global.location = "Egypt,Egypt"
 global.reactmoji = "❤️"
 global.themeemoji = "🍭"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://chat.whatsapp.com/GYy7mNrkNwm30xqVBymGXI"
+global.websitex = "https://chat.whatsapp.com/J8zh04bG0jEAO7DPciWUng"
 global.lolhuman = "KaysaS"
 
 
