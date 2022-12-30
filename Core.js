@@ -1326,7 +1326,7 @@ const ftroli = {
 
 
     const menulist = `
-    ELGAZAR ${pushname} 👋.انا العزيز ${global.BotName}, بوت تم تطويري بواسطة: الجزار للانتقال باستخدام واتساب إلى المستوى التالي.
+    ❤️BOT - AL SOLTAN❤️ ${pushname} 👋.انا العزيز ${global.BotName}, بوت تم تطويري بواسطة: الجزار للانتقال باستخدام واتساب إلى المستوى التالي.
         
        「 System Info 」
     
@@ -2505,7 +2505,7 @@ let mentioned = participants.map(v => v.jid)
 
 
 
-    case 'nowa':  case 'خمن': case 'ارقام':{
+    case 'nowa':  case 'stalk': case 'stalknumber':{
         if (isBan) return reply(mess.banned)
         if (!args[0]) return reply(`Use command like: ${prefix}stalk <number>xxx`)
         var inputnumber = args[0]
@@ -4861,8 +4861,8 @@ case 'help': case 'الاوامر': case 'menu': case 'اوامر': case 'الق
       
  const helpmenu =`هاي*${pushname}*,
 
-انا *BOT ELGAZAR❤️*, 
-تم تطويري بواسطة * ELGAZAR ALWAZER❤️ *.
+انا *❤️BOT - ELGAZAR❤️️*, 
+تم تطويري بواسطة *ELGAZAR ALWAZER❤*.
 
 ♠️ البادئة الخاصة بي هي:  ${prefix}
  
@@ -5146,7 +5146,7 @@ case 'help': case 'الاوامر': case 'menu': case 'اوامر': case 'الق
 
     {buttonId: `.owner`, buttonText: {displayText: 'مطور البوت 👤'}, type: 1},
 
-    {buttonId: `.nsfw on`, buttonText: {displayText: 'قائمه اضافيه 💦'}, type: 1},
+    {buttonId: `.nsfw on`, buttonText: {displayText: 'قائمه اضافيه 💦'}, type: 1}
     ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku2.mp4'),gifPlayback:true,
@@ -5169,7 +5169,7 @@ case '':
       mikupic ='https://wallpapercave.com/wp/wp10524580.jpg'
     
         
- const needhelpmenu = `مرحبا بك في بوت الجزار لظهور قائمه الاوامر اكتب .الاوامر او اضغط علي القائمه البادئه الخاصه بي هي *${prefix}*`
+ const needhelpmenu = `مرحبا بك في بوت الجزار لظهور قائمه الاوامر اكتب .الاوامر او اضغط علي القائمه لا تنسي وضع *${prefix} قبل كل امر*`
      
          let butRun = [
                 {buttonId: `.help`, buttonText: {displayText: 'القائمه✨'}, type: 1}
@@ -5198,7 +5198,7 @@ const txt = `❄️ مرحــبـا بـك عـزيـزي انــــا مـت
 
 
 '❄️ شـكـرا لــك لـاسـتـخـدامـك❤،
-'❤️ᗷOT ᗴᒪᘜᗩᘔᗩᖇ❤`
+'❤️BOT - ELGAZAR❤️`
 const mikuarray= [
             "https://c.tenor.com/SOeIW-QVZvoAAAPo/scared-the-quintessential-quintuplets.mp4",
             "https://c.tenor.com/FDe7lTs0xvMAAAPo/miku-nakano-nakano-miku.mp4",
