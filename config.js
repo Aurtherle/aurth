@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['201288455338']
-global.OwnerNumber = ['201288455338']
-global.ownertag = ['201288455338']
-global.BotName = "❤️BOT - AL SOLTAN❤️"
-global.packname = "YoUsSeF Al SoLtAn ]★"
-global.author = "★ 201288455338 ★"
-global.OwnerName = "YoUsSeF Al SoLtAn❤️"
-global.BotSourceCode = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA"
-global.SupportGroupLink = "https://chat.whatsapp.com/FiRwXZoBuSyLlUZBtNAgx8"
+global.Owner = ['201098906252']
+global.OwnerNumber = ['201098906252']
+global.ownertag = ['201098906252']
+global.BotName = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️"
+global.packname = "⍣الجزار الوزير يروحي⍣"
+global.author = "⍣01098906252⍣"
+global.OwnerName = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️"
+global.BotSourceCode = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g"
+global.SupportGroupLink = "https://chat.whatsapp.com/DHq2KYcAzWG95WTpzVQx3D"
 global.sessionName = "session"
 
 // Prefix //
@@ -23,11 +23,11 @@ global.sessionName = "session"
 global.prefa = ['.'] 
 
 
-global.location = "Egypt,Egypt"
+global.location = "bihar, India"
 global.reactmoji = "❤️"
-global.themeemoji = "🍭"
+global.themeemoji = "🐤"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://chat.whatsapp.com/J8zh04bG0jEAO7DPciWUng"
+global.websitex = "https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn"
 global.lolhuman = "KaysaS"
 
 
@@ -59,18 +59,18 @@ global.ntilink = []
 
 global.mess = {
     jobdone: 'تم...',
-    useradmin: 'الامر دا لادمن بس!',
-    botadmin: 'ارفع البوت ادمن الاول.',
+    useradmin: '『 الامر دا لادمن بس! 』',
+    botadmin: '『 ارفع البوت ادمن الاول 』',
     botowner: 'الميزه دي للمالك بس!',
-    grouponly: 'الميزه دي للجروبات بس!',
-    privateonly: 'الميزه دي في الخاص بس!',
-    botonly: 'الميزه دي للبوت بس!',
-    waiting: 'استني شويه...',
-    nolink: 'فين الرابط?',
-    error: 'ايرور!',
-    banned: 'انت محظور من استخدام البوت اتواصل مع المطور لالغاء حظرك!',
-    bangc: 'تم حظر الجروب دا من استخدام البوت!',
-    nonsfw: 'لا تكن منحرفا هذه المجموعه ليست لاباحي!'
+    grouponly: '『 الميزه دي للجروبات بس! 』',
+    privateonly: '『 الميزه دي في الخاص بس! 』',
+    botonly: '『 الميزه دي للبوت بس! 』',
+    waiting: '『 استني شويه... 』',
+    nolink: '『 فين الرابط? 』',
+    error: '『 ايرور! 』',
+    banned: '『 انت محظور من استخدام البوت اتواصل مع المطور لالغاء حظرك! 』',
+    bangc: '『 تم حظر الجروب دا من استخدام البوت! 』',
+    nonsfw: '『 اكتب المجهوله واختار فتح ثم اكتب .القائمه-المجهوله! 』'
     
 }
 
