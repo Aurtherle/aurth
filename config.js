@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['201098906252']
-global.OwnerNumber = ['201098906252']
-global.ownertag = ['201098906252']
-global.BotName = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️"
-global.packname = "⍣الجزار الوزير يروحي⍣"
-global.author = "⍣01098906252⍣"
-global.OwnerName = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️"
-global.BotSourceCode = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g"
-global.SupportGroupLink = "https://chat.whatsapp.com/DHq2KYcAzWG95WTpzVQx3D"
+global.Owner = ['13435201454']
+global.OwnerNumber = ['13435201454']
+global.ownertag = ['13435201454']
+global.BotName = "𝔄𝔘ℜ𝔗ℌ𝔈ℜ"
+global.packname = "AURTHER"
+global.author = "⍣13435201454⍣"
+global.OwnerName = "ⲀⴑꞄⲦⲎⲈꞄ 𝓛ⲈⲰⲒⲚ"
+global.BotSourceCode = "https://www.instagram.com/ki.m._.o/"
+global.SupportGroupLink = "https://www.instagram.com/ki.m._.o/"
 global.sessionName = "session"
 
 // Prefix //
@@ -23,11 +23,11 @@ global.sessionName = "session"
 global.prefa = ['.'] 
 
 
-global.location = "bihar, India"
+global.location = "RYADH, KSA"
 global.reactmoji = "❤️"
 global.themeemoji = "🐤"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn"
+global.websitex = "https://www.instagram.com/ki.m._.o/"
 global.lolhuman = "KaysaS"
 
 
