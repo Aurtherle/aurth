@@ -162,7 +162,7 @@ var budy = (typeof m.text == 'string' ? m.text : '')
 const prefix = global.prefa
 const isCmd = body.startsWith(prefix)
 const notCmd = body.startsWith('')
-const command = isCmd ? body.slice(1).trim().split(' ')[0].toLowerCase() : ''
+const command = body.replace(prefix, '').trim().split(/ +/).shift().toLowerCase() : ''
 const args = body.trim().split(/ +/).slice(1)
 const pushname = m.pushName || "No Name"
 const botNumber = await Miku.decodeJid(Miku.user.id)
