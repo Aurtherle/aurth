@@ -4843,6 +4843,7 @@ case 'help': case 'الاوامر': case 'menu': case 'اوامر': case 'الق
       
  const helpmenu =`هاي*${pushname}*,
  
+ https://wallpapercave.com/dwp1x/wp10434158.png
 ┏━「 Aurther 」━━⭓
 ┃╔═✪「 الأعضاء 」
 ┃╠بروفايل    
