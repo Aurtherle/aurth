@@ -133,13 +133,13 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 try {
                     ppuser = await Miku.profilePictureUrl(num, 'image')
                 } catch {
-                    ppuser = 'https://wallpapercave.com/wp/wp10753770.jpg'
+                    ppuser = 'https://wallpapercave.com/dwp1x/wp10434158.png'
                 }
 
                 try {
                     ppgroup = await Miku.profilePictureUrl(anu.id, 'image')
                 } catch {
-                    ppgroup = 'https://telegra.ph/file/4cc2712eee93c105f6739.jpg'
+                    ppgroup = 'https://wallpapercave.com/dwp1x/wp10434158.png'
                 }
 
                 let targetname = await Miku.getName(num)
@@ -149,9 +149,9 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 if (anu.action == 'add') {
                 let WAuserName = num
                 mikutext = `
-هلا بيك/ي يعمري @${WAuserName.split("@")[0]},
+أنرت @${WAuserName.split("@")[0]},
 
-انا *ᗷOT-ELGAZAR*, مرحبا بك في ${metadata.subject}.
+انا *AURTHER*, مرحبا بك في ${metadata.subject}.
 
 *وصف الجروب:*
 ${metadata.desc}
@@ -170,9 +170,9 @@ Miku.sendMessage(anu.id, buttonMessage)
                 } else if (anu.action == 'remove') {
                 	let WAuserName = num
                     mikutext = `
-مع السلامه 👋, @${WAuserName.split("@")[0]},
+وداعا 👋, @${WAuserName.split("@")[0]},
 
-مع السلامه اللي يغور يجي مكانو طابور😍, واللي بعنا خسر دلعنا😂💔!
+سررنا ب معرفتك💔!
 `
 
     let buttonMessage = {
